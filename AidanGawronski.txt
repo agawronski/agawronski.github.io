@@ -6,7 +6,7 @@ I'm a data scientist.
 
 I enjoy working with Python, R, and SQL.
 
-When I'm not coding I enjoy working out, muay thai, biking along the beach, reading, and watching movies.
+When I'm not coding I like working out, muay thai, biking along the beach, reading, and watching movies.
 
 Every now and then I ...
 Answer questions on <a href="https://stackoverflow.com/users/3922132/aidangawronski" target="_blank">Stack Overflow</a>.

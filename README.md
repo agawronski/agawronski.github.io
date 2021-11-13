@@ -1,1 +1,1 @@
-### https://agawronski.github.io/blog
+### https://agawronski.github.io/

@@ -6,11 +6,11 @@ I'm a data scientist at <a href="https://www.edmunds.com/" target="_blank">Edmun
 
 I enjoy working with Python, R, and SQL.
 
-When I'm not coding I like working out, muay thai, biking along the beach, reading, and watching movies.
+When I'm not coding I like working out, muay thai, biking along the beach, reading, watching movies, and making music.
 
 Every now and then I ...
 Answer questions on <a href="https://stackoverflow.com/users/3922132/aidangawronski" target="_blank">Stack Overflow</a>.
-Post photographs on <a href="https://aidangawronski.com/instagram/" target="_blank">Instagram</a>.
+Post photographs on <a href="https://www.instagram.com/aidan.gawronski/" target="_blank">Instagram</a>.
 Push code to <a href="https://github.com/agawronski" target="_blank">GitHub</a>.
 
 Feel free to connect on <a href="https://www.linkedin.com/in/aidangawronski/" target="_blank">LinkedIn</a>.
